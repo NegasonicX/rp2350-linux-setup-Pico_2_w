@@ -1,0 +1,7 @@
+# Specific files to not ignore
+
+!/.vscode/c_cpp_properties.json
+
+build/*
+
+dev/**/build/*
