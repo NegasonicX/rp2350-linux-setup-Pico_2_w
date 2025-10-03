@@ -1,7 +1,5 @@
-# Specific files to not ignore
+# Ignore any personal IDE configurations
+.vscode
 
-!/.vscode/c_cpp_properties.json
-
-build/*
-
-dev/**/build/*
+# Ignore any build directories
+build/
